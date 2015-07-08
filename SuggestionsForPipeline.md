@@ -9,6 +9,7 @@ What are we trying to achieve? Given our evidence of the relationship between na
 In initial collaboration with David Tank we did attempt to address some of these questions. The Tank lab examined multiple nuclear and chloroplast genes and assembled some initial phylogenies. While the support seperating *Raphanus* from *Brassica* (and even what has been called Raphanus confusus) is strong, within the *Raphanus* lineage (including *R.r.r* (weeds and natives), *R.s*, *R.r.l*, *R.r.m*) is not great.
 
 Thus we would like to try to accomplish a few additional things. 
+
 1. Build a good species level phylogeny
 2. Distinguish between any of these evolutionary hypotheses discussed above regarding the evolution of weeds?
 3. Examine discordance for individual gene trees from the species tree to help assess an understanding of possible hybrid origins or patterns of introgression (assuming an R.r. native like ancestor to the weeds, followed by weed evolution and introgression).
