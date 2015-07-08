@@ -15,4 +15,18 @@ Thus we would like to try to accomplish a few additional things.
 4. Test patterns of molecular evolution along the weed branch of the tree (in particular for genes involved with flowering time).
 
 ## What do we have to use
-We sequenced ESTs from multiple tissues from 6 individuals (see the RadishDB[http://radish.plantbiology.msu.edu/index.php/Main_Page]). Three from *R. sativus* domesticated cultivars (*convars, sativus, causatus, oleifera*). One from a New York weedy population of *R.r* (same population that we used for the genome sequence as described in (Moghe et al. 2014)[http://www.plantcell.org/content/26/5/1925.long].
+We sequenced ESTs from multiple tissues from 6 individuals (see the [RadishDB](http://radish.plantbiology.msu.edu/index.php/Main_Page)). Three from *R. sativus* domesticated cultivars (*convars, sativus, causatus, oleifera*). One from a New York weedy population of *R.r* (same population that we used for the genome sequence as described in [Moghe et al. 2014](http://www.plantcell.org/content/26/5/1925.long), one *R.r.r* from Spain in the presumed native range, and one each from *R.r.m* and *R.r.l* from Coastal Spain and France respectively. As Described in Moghe et al, these ESTs were assembled into contigs (and orthology, although not at the population level, was initially assessed in that paper).Also, there is lots of available data for *Brassica* spp. which may be useful as for outgroups.
+
+After a very fruitful conversation with Ben Furman (who also mentioned that we consider using [CLUMPP](https://web.stanford.edu/group/rosenberglab/clumpp.html) for our STRUCTURE runs to help correct for label switching and compute meaningful averages across runs). I think our goals (in general are as follows).
+
+1. Align sequences and identify orthologs for further "gene"/"ortholog" level analyses.
+2. Build Gene trees
+3. Build Species trees from gene trees.
+4. Identify discordant gene trees (discordant from gene trees) to help(?) assess introgression/hybridization hypotheses.
+5. Examine patterns of molecular evolution along particular branches (i.e. the "weed" branch of the tree) to identify potential targets of selection (in particular for flowering time genes).
+
+
+## Details for each step (based on my conversations with BF).
+
+### Step 1. Align sequences and identify orthologs.
+Given that there was the "recent" genome duplication ~ 
